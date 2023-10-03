@@ -30,4 +30,5 @@ Copy and Paste Joystick Player Move script. If you have any issues, please go to
                 rb.velocity = Vector2.zero;
             }
         }
-    }```
+    }
+```
