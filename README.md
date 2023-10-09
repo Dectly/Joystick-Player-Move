@@ -1,7 +1,8 @@
 # Joystick-Player-Move
 Copy and Paste Joystick Player Move script. If you have any issues, please go to our discord server
 
-``` using System.Collections;
+```cs
+ using System.Collections;
     using System.Collections.Generic;
     using UnityEngine;
     
